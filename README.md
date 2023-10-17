@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkbae143&label=Profile%20views&color=0e75b6&style=flat" alt="kkbae143" /> </p>
 
-- 🔭 I’m currently working on **IOT basd Project and Java Game Development**
+- 🔭 I’m currently working on **IOT based Projects and Java Game Development**
 
 - 🌱 I’m currently learning **Full Stack Web Development, MERN Stack, Java, IOT, Blockchain Web Development,**
 
@@ -31,4 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkbae143&show_icons=true&locale=en" alt="kkbae143" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkbae143&" alt="kkbae143" /></p>
+
 
