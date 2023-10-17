@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm KARTHIK PILLI</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi245/kkbae143/main/https://github.com/KKBAE143/KKBAE143/blob/main/WhatsApp%20Image%202023-10-17%20at%201.15.53%20AM.jpeg"> </div>
 <h3 align="center">From Electrical and Electronic Engineering To IT Enthusiast : Pursuing a Passion for Computer Science and Engineering in IOT Specialization</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkbae143&label=Profile%20views&color=0e75b6&style=flat" alt="kkbae143" /> </p>
