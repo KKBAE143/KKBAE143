@@ -11,6 +11,10 @@
 
 - 📫 How to reach me **Necroman.pk@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fWARS3uN7nmMhLoTxA7eAxCpKUM2mVr0/view?usp=drivesdk](https://drive.google.com/file/d/1fWARS3uN7nmMhLoTxA7eAxCpKUM2mVr0/view?usp=drivesdk)
+
+- ⚡ Fun fact **I'm a tech-savvy electrical and electronics engineering enthusiast who embarked on a journey to blend circuits with code, showing a versatile spirit in both hardware and software realms 🌟**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/itsmekarthikpilli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsmekarthikpilli" height="30" width="40" /></a>
