@@ -38,7 +38,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="#" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Scikit_learn_logo_small.svg" alt="Machine Learning" width="40" height="40" />
+        <img src="https://th.bing.com/th?id=OIP.bE1Jbk4DRruFC4Fkx75dNAHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2" alt="Machine Learning" width="40" height="40" />
         Machine Learning
     </a>, 
     <a href="#" target="_blank" rel="noreferrer">
