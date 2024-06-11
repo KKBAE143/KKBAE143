@@ -39,11 +39,9 @@
 <p align="left">
     <a href="#" target="_blank" rel="noreferrer"> 
         <img src="https://th.bing.com/th?id=OIP.bE1Jbk4DRruFC4Fkx75dNAHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2" alt="Machine Learning" width="40" height="40" />
-        Machine Learning
     </a>, 
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/TensorFlowLogo.svg" alt="Deep Learning" width="40" height="40" />
-        Deep Learning
+        <img src="[https://upload.wikimedia.org/wikipedia/commons/a/a4/TensorFlowLogo.svg](https://th.bing.com/th?id=OIP.PDKdwhizFR-49SuVmDhaCwAAAA&w=267&h=233&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2)" alt="Deep Learning" width="40" height="40" />
     </a>, 
     <a href="#" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Neural Networks (Keras)" width="40" height="40" />
