@@ -13,7 +13,7 @@
 
 - 📫 Reach out to me at **kkbae143@gmail.com**
 
-- 📄 Learn about my experiences [here](https://drive.google.com/file/d/1fWARS3uN7nmMhLoTxA7eAxCpKUM2mVr0/view?usp=drivesdk)
+- 📄 Learn about my experiences [here](https://drive.google.com/file/d/1uz4ubqNPXeYpk48pMvrm-1K65q31RAq2/view?usp=sharing)
 
 - ⚡ Fun fact: **I'm an electrical and electronics engineering enthusiast who has blended circuits with code, demonstrating versatility in both hardware and software realms. 🌟**
 
